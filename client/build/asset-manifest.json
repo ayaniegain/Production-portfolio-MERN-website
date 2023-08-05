@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d09fe551.css",
+    "main.js": "/static/js/main.f610d7f2.js",
+    "static/media/resort_vally_project.png": "/static/media/resort_vally_project.1da2e5353c6948b3d25a.png",
+    "static/media/profile_pic.png": "/static/media/profile_pic.0c0dc7f8042f6732888a.png",
+    "static/media/movie_app.jpg": "/static/media/movie_app.aae367902d59d09fdcca.jpg",
+    "static/media/Ayan_Biswas_Developer.pdf": "/static/media/Ayan_Biswas_Developer.be0bad3f5b8b0e07b2d5.pdf",
+    "static/media/node_taking_app.png": "/static/media/node_taking_app.0ab6214728ffeb3911f6.png",
+    "static/media/profile.svg": "/static/media/profile.52ddd044c34f189ac596f8d27c56a5e3.svg",
+    "index.html": "/index.html",
+    "main.d09fe551.css.map": "/static/css/main.d09fe551.css.map",
+    "main.f610d7f2.js.map": "/static/js/main.f610d7f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09fe551.css",
+    "static/js/main.f610d7f2.js"
+  ]
+}
